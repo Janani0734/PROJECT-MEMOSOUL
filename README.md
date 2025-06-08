@@ -19,7 +19,7 @@ To create a technology-driven solution that captures the emotional essence of hu
 ---
 
 ## 🚀 What Makes It Unique
-While most AI tools focus on productivity or entertainment, MemoSoul addresses emotional intelligence and personal legacy — an unexplored space where AI meets the human heart. No major product today offers this blend of emotional AI and memory preservation.
+While most AI tools focus on productivity or entertainment, MemoSoul addresses emotional intelligence and personal legacy, an unexplored space where AI meets the human heart. No major product today offers this blend of emotional AI and memory preservation.
 
 ---
 
@@ -33,12 +33,12 @@ While most AI tools focus on productivity or entertainment, MemoSoul addresses e
 ---
 
 ## 👩‍💻 Current Status
-This project is part of my final-year B.Tech IT portfolio. Currently in the design and planning stage with structured documentation, UI wireframes, and AI model research underway.
+This project is part of my final year B.Tech IT portfolio. Currently in the design and planning stage with structured documentation, UI wireframes, and AI model research underway.
 
 ---
 
 ## 🙌 Looking Ahead
-MemoSoul is more than just a project — it's a vision to help people hold onto moments that matter. I aim to continue developing this as a scalable emotional AI product or even a future startup.
+MemoSoul is more than just a project, it's a vision to help people hold onto moments that matter. I aim to continue developing this as a scalable emotional AI product or even a future startup.
 
 ---
 
